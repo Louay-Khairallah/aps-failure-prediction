@@ -1,2 +1,5 @@
 # aps-failure-prediction
-Predictive maintenance machine learning project for detecting air-pressure-system failures in vehicles using sensor data from the Scania APS dataset.
+This project uses the Scania APS dataset to predict air-pressure-system
+failures from vehicle sensor data. It includes data exploration, missing-value
+analysis, stratified train/validation/test splitting, and a majority-class
+baseline classifier.
